@@ -17589,7 +17589,6 @@
 		(property "Reference" "BATJ5"
 			(at 1 -2.55 120)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "ebb39b83-80c9-47b6-b3c0-8f2d9618d2fb")
 			(effects
 				(font
@@ -19178,7 +19177,6 @@
 		(property "Reference" "BATJ2"
 			(at 1 -2.55 60)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "0188f2ba-58b3-42c2-997f-e42cfed0aabb")
 			(effects
 				(font
@@ -29677,7 +29675,7 @@
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "BATJ4"
-			(at 1 2.55 360)
+			(at 1 2.55 0)
 			(layer "B.SilkS")
 			(uuid "5894fce9-bd0e-4cb2-b3db-47e0f4a268d0")
 			(effects
@@ -29689,7 +29687,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 1 -7.45 360)
+			(at 1 -7.45 0)
 			(layer "B.Fab")
 			(uuid "790f524c-8b02-4f4c-b204-1f865aa3dafb")
 			(effects
@@ -29701,7 +29699,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "716793e2-57f5-4dcc-8826-a043cb444408")
@@ -29714,7 +29712,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6a3364c3-32d4-431e-9051-607b563b1666")
@@ -29727,7 +29725,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5a4b62eb-2ff4-4308-9934-2c7ef2f0859d")
@@ -30145,7 +30143,7 @@
 			(uuid "73d19795-6058-4f88-a4f4-e61c7117e799")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1 -2.5 360)
+			(at 1 -2.5 0)
 			(layer "B.Fab")
 			(uuid "13cc5881-0832-4208-8fb1-5a0109b98a3b")
 			(effects
@@ -31103,7 +31101,7 @@
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "BATJ1"
-			(at 1 2.55 360)
+			(at 1 2.55 0)
 			(layer "B.SilkS")
 			(uuid "71bead65-eb74-4a53-bcbd-9e8563394de7")
 			(effects
@@ -31115,7 +31113,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 1 -7.45 360)
+			(at 1 -7.45 0)
 			(layer "B.Fab")
 			(uuid "23869705-e7e1-4235-84fe-cde6a546e26a")
 			(effects
@@ -31127,7 +31125,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2a8bd9cf-8782-497e-8d41-38eadf079881")
@@ -31140,7 +31138,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b5b89d32-b8b1-47d5-b920-e49cfa9a206c")
@@ -31153,7 +31151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ce51047f-2204-4db8-82c9-abfc625aa9ce")
@@ -31571,7 +31569,7 @@
 			(uuid "27003d94-f938-4b40-87ee-b0181710aa04")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1 -2.5 360)
+			(at 1 -2.5 0)
 			(layer "B.Fab")
 			(uuid "d3aa5d0a-1fd0-402b-bc35-68c28eb1a315")
 			(effects
