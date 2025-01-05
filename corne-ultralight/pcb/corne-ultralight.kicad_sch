@@ -2824,16 +2824,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 149.86) (xy 247.65 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0989cd8e-7655-46dc-934f-168550792b0a")
-	)
-	(wire
-		(pts
 			(xy 27.94 129.54) (xy 31.75 129.54)
 		)
 		(stroke
@@ -2961,16 +2951,6 @@
 			(type default)
 		)
 		(uuid "286f1eb4-39c2-4d68-aca6-b21c782f1358")
-	)
-	(wire
-		(pts
-			(xy 255.27 58.42) (xy 242.57 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ba182ed-9c10-441a-8cb7-358c526be805")
 	)
 	(wire
 		(pts
@@ -3734,26 +3714,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 60.96) (xy 250.19 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1797411-4215-41cf-a5ec-141d474ff759")
-	)
-	(wire
-		(pts
-			(xy 241.3 133.35) (xy 241.3 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c22045c5-985e-4ed2-b9b2-6d49fc24e31d")
-	)
-	(wire
-		(pts
 			(xy 102.87 160.02) (xy 120.65 160.02)
 		)
 		(stroke
@@ -3791,16 +3751,6 @@
 			(type default)
 		)
 		(uuid "c60b2a30-e9bb-4a39-97a7-22f9ff6c69d5")
-	)
-	(wire
-		(pts
-			(xy 242.57 49.53) (xy 242.57 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8495079-ab12-4bb3-866b-fe386497e0ed")
 	)
 	(wire
 		(pts
@@ -12937,72 +12887,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 250.19 60.96 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "018e99e7-77cb-45e7-904f-0e156179c692")
-		(property "Reference" "#PWR022"
-			(at 250.19 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 250.19 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 250.19 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 250.19 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 250.19 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "52faaf85-4605-4a18-a5e2-6e6161f6d62d")
-		)
-		(instances
-			(project "corne-ultralight"
-				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VDD")
 		(at 165.1 139.7 90)
 		(mirror x)
@@ -13080,8 +12964,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08f88330-9a71-443d-b210-fdf786f28646")
-		(property "Reference" "BATJ5"
-			(at 251.46 112.395 0)
+		(property "Reference" "BATJ4"
+			(at 251.46 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13089,7 +12973,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 251.46 114.935 0)
+			(at 251.46 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13132,7 +13016,7 @@
 		(instances
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "BATJ5")
+					(reference "BATJ4")
 					(unit 1)
 				)
 			)
@@ -13896,22 +13780,20 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a5233b3-f481-4cd0-80fc-69cab89a2cd5")
-		(property "Reference" "BATJ6"
-			(at 227.965 133.3499 0)
+		(property "Reference" "BATJ5"
+			(at 230.505 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 227.965 135.8899 0)
+			(at 230.505 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
@@ -13950,7 +13832,7 @@
 		(instances
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "BATJ6")
+					(reference "BATJ5")
 					(unit 1)
 				)
 			)
@@ -14017,71 +13899,6 @@
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDA")
-		(at 247.65 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "66efe338-8f4b-4783-abd6-eecc5847ff1c")
-		(property "Reference" "#PWR024"
-			(at 247.65 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 247.65 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 247.65 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "12db0608-ad62-45b5-990f-5165cfaa9fe3")
-		)
-		(instances
-			(project "corne-ultralight"
-				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -14810,75 +14627,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Female")
-		(at 252.73 152.4 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a50867c-440d-4cd1-bd79-0cffd67c995f")
-		(property "Reference" "BATJ8"
-			(at 252.095 144.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02_Female"
-			(at 252.095 146.685 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 252.73 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 252.73 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 252.73 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9141b3fc-3f62-4e27-a190-df50ad473222")
-		)
-		(pin "2"
-			(uuid "52f78f34-455b-4737-8b43-9be114341745")
-		)
-		(instances
-			(project "corne-ultralight"
-				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "BATJ8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "kbd:OLED")
 		(at 182.88 68.58 0)
 		(mirror x)
@@ -15020,76 +14768,6 @@
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "BATJ2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Female")
-		(at 260.35 60.96 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a02d5f3d-9852-41b3-a7e0-80a341dbd7ac")
-		(property "Reference" "BATJ4"
-			(at 261.0612 60.5247 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x02_Female"
-			(at 261.0612 57.9878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 260.35 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "50e5cc27-7154-4283-8762-75cdb33b3fcc")
-		)
-		(pin "2"
-			(uuid "933be7a9-c1a0-450e-85a7-17fcfae2189f")
-		)
-		(instances
-			(project "corne-ultralight"
-				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "BATJ4")
 					(unit 1)
 				)
 			)
@@ -15367,8 +15045,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6a4796c-9413-4b7e-bd93-56501bfa8fcd")
-		(property "Reference" "BATJ7"
-			(at 252.095 127.635 0)
+		(property "Reference" "BATJ6"
+			(at 252.095 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15376,7 +15054,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 252.095 130.175 0)
+			(at 252.095 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15419,7 +15097,7 @@
 		(instances
 			(project "corne-ultralight"
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
-					(reference "BATJ7")
+					(reference "BATJ6")
 					(unit 1)
 				)
 			)
