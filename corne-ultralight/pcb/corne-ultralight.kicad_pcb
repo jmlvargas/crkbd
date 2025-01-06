@@ -8,9 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Corne Light")
-		(date "2020-11-12")
-		(rev "2.0")
+		(title "Corne UltraLight Gruyere")
+		(date "2025-01-05")
+		(rev "2.2")
 		(company "foostan")
 	)
 	(layers
@@ -17589,6 +17589,7 @@
 		(property "Reference" "BATJ5"
 			(at 1 -2.55 120)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ebb39b83-80c9-47b6-b3c0-8f2d9618d2fb")
 			(effects
 				(font
@@ -19177,6 +19178,7 @@
 		(property "Reference" "BATJ2"
 			(at 1 -2.55 60)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0188f2ba-58b3-42c2-997f-e42cfed0aabb")
 			(effects
 				(font
@@ -41112,7 +41114,7 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "Corne UltraLight v2.0 PCB Designed by foostan, mods by petejohanson"
+	(gr_text "Corne UltraLight v2.2 PCB Designed by foostan, mods by petejohanson"
 		(at 194.2125 68.56 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005dc05551")
@@ -41124,7 +41126,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "Corne UltraLight v2.0 PCB Designed by foostan, mods by petejohanson"
+	(gr_text "Corne UltraLight v2.2 PCB Designed by foostan, mods by petejohanson"
 		(at 53.7675 68.6 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005dc84d0a")
@@ -41351,6 +41353,70 @@
 			)
 			(justify left)
 		)
+	)
+	(via
+		(at 146.2175 82.095)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "0f6fcdd4-b11d-4fa7-aebc-feb8dde09419")
+	)
+	(via
+		(at 156.9125 89.395)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "12cffb57-c0e8-4a2f-8ea9-a88b958b1f51")
+	)
+	(via
+		(at 146.2175 89.395)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "29fdd97a-8f0a-4a0c-ae05-1e0b758e8155")
+	)
+	(via
+		(at 144.0075 89.395)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "34f920dd-7059-4382-87e0-23332f366757")
+	)
+	(via
+		(at 144.0075 82.095)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "4170604d-8dce-4a74-872f-a1cf7ac753ba")
+	)
+	(via
+		(at 154.7025 82.095)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "579df31c-7eb2-4b7d-9e5a-39e4581e5352")
+	)
+	(via
+		(at 154.7025 89.395)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "5b0550c4-b98a-4b01-bd22-0146f172c91a")
+	)
+	(via
+		(at 156.9125 82.095)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "c664f217-2600-43f3-a5b2-22acf281951f")
 	)
 	(segment
 		(start 30.1875 48.916875)
@@ -44256,6 +44322,14 @@
 		(net 16)
 		(uuid "e6ae0b5b-230c-41b9-bba0-8dc14d24b692")
 	)
+	(via
+		(at 143.2125 84.995)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 16)
+		(uuid "c1637dca-49ac-4b13-8091-a45ece550b44")
+	)
 	(segment
 		(start 138.9625 91.07)
 		(end 138.9625 93.962949)
@@ -44393,6 +44467,14 @@
 		(uuid "fe2de149-7692-4656-90be-345cac5889e8")
 	)
 	(via
+		(at 143.2125 83.495)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 17)
+		(uuid "93ab9cbb-e5da-4250-830c-61c3523aeb50")
+	)
+	(via
 		(at 126.9125 78.745)
 		(size 0.8)
 		(drill 0.4)
@@ -44519,6 +44601,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 18)
 		(uuid "1fea111f-b137-4a02-a415-97a2db7d49ce")
+	)
+	(via
+		(at 157.7125 86.495)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 18)
+		(uuid "afdc2d34-575b-4e9b-98c6-40eb79f28c98")
 	)
 	(segment
 		(start 159.2125 85.27)
@@ -48008,6 +48098,14 @@
 		(net 44)
 		(uuid "fb686e23-7b3e-4f86-99e5-7b4084553826")
 	)
+	(via
+		(at 157.5625 83.495)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 44)
+		(uuid "59909db5-cffb-43d0-9b5f-26fc5fe6e6f2")
+	)
 	(segment
 		(start 18.7125 63.445)
 		(end 18.7125 67.195)
@@ -49911,6 +50009,22 @@
 		(layer "B.Cu")
 		(net 80)
 		(uuid "f44480ad-f208-4218-9ea0-b0c2a12b7473")
+	)
+	(via
+		(at 143.2125 87.995)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 81)
+		(uuid "74cd1ab1-148b-47de-88f9-8a773dd080ca")
+	)
+	(via
+		(at 157.7125 87.995)
+		(size 0.6)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 82)
+		(uuid "6e69a8d2-21e9-4ff2-b034-bdf1de77b9be")
 	)
 	(group ""
 		(uuid "64d723a8-f89f-4925-9f3c-a6a15287ff3a")
