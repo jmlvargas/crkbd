@@ -923,6 +923,573 @@
 				)
 			)
 		)
+		(symbol "corne-light-rescue:GND-power"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "power_GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND-power_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND-power_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "corne-light-rescue:GNDA-power"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "power_GNDA"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDA-power_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDA-power_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0) hide
+					(name "GNDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "corne-light-rescue:MJ-4PP-9-kbd"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "kbd_MJ-4PP-9"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 6.985 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 6.985 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MJ-4PP-9-kbd_0_1"
+				(rectangle
+					(start -1.905 -1.905)
+					(end -3.175 1.27)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -2.54 1.905) (xy 3.175 1.905)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.905) (xy -0.635 -1.27) (xy 0 -1.905) (xy 3.175 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.635) (xy 0.635 0) (xy 1.27 -0.635) (xy 3.175 -0.635)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0.635) (xy 1.905 1.27) (xy 2.54 0.635) (xy 3.175 0.635)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.175 2.54)
+					(end -3.81 -2.54)
+					(stroke
+						(width 0.3048)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MJ-4PP-9-kbd_1_1"
+				(pin input line
+					(at 5.08 1.905 180)
+					(length 2.0066)
+					(name "~"
+						(effects
+							(font
+								(size 0.508 0.508)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -1.905 180)
+					(length 2.0066)
+					(name "~"
+						(effects
+							(font
+								(size 0.508 0.508)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -0.635 180)
+					(length 2.0066)
+					(name "~"
+						(effects
+							(font
+								(size 0.508 0.508)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0.635 180)
+					(length 2.0066)
+					(name "~"
+						(effects
+							(font
+								(size 0.508 0.508)
+							)
+						)
+					)
+					(number "D"
+						(effects
+							(font
+								(size 0.7112 0.7112)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "corne-light-rescue:VCC-power"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "power_VCC"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC-power_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 1.905)
+					(radius 0.635)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC-power_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0) hide
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "corne-light-rescue:VDD-power"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "power_VDD"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD-power_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 1.905)
+					(radius 0.635)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VDD-power_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0) hide
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "kbd:OLED"
 			(pin_names
 				(offset 1.016)
@@ -2743,8 +3310,16 @@
 		(uuid "facea53d-5e4c-47b4-b270-4269f81c1066")
 	)
 	(no_connect
+		(at 236.855 151.765)
+		(uuid "14fd02c0-1519-4057-916e-193d6d77bd75")
+	)
+	(no_connect
 		(at 236.855 35.56)
 		(uuid "2b18f530-7f8a-4338-8c67-e0ff3b6befcb")
+	)
+	(no_connect
+		(at 236.22 69.215)
+		(uuid "68870566-541b-443e-86df-9e39173018d8")
 	)
 	(no_connect
 		(at 175.895 47.625)
@@ -2964,6 +3539,16 @@
 	)
 	(wire
 		(pts
+			(xy 239.395 154.305) (xy 239.395 156.845)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b412df8-a21f-42cb-9e82-86ed76963775")
+	)
+	(wire
+		(pts
 			(xy 27.305 46.99) (xy 31.115 46.99)
 		)
 		(stroke
@@ -2971,6 +3556,16 @@
 			(type default)
 		)
 		(uuid "2d4c6702-2f98-4c5a-b7ff-97f52d688485")
+	)
+	(wire
+		(pts
+			(xy 238.76 70.485) (xy 238.76 67.945)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e873dd2-57d1-448d-87ca-a2e13ecd8740")
 	)
 	(wire
 		(pts
@@ -2991,6 +3586,16 @@
 			(type default)
 		)
 		(uuid "31939159-be7c-4586-bcfb-75ac1d027060")
+	)
+	(wire
+		(pts
+			(xy 238.76 71.755) (xy 238.76 74.295)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3205af5f-0984-4e79-bd1f-dc830162cb2c")
 	)
 	(wire
 		(pts
@@ -3031,6 +3636,16 @@
 			(type default)
 		)
 		(uuid "3aa7f653-1f03-4a4b-b07b-d57cd97c726f")
+	)
+	(wire
+		(pts
+			(xy 236.22 73.025) (xy 243.84 73.025)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c237d0b-da93-48aa-8162-0f95480f337b")
 	)
 	(wire
 		(pts
@@ -3104,6 +3719,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.855 153.035) (xy 239.395 153.035)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d34e0e8-8a32-4ac9-a71b-c01639628e63")
+	)
+	(wire
+		(pts
 			(xy 255.27 52.07) (xy 250.19 52.07)
 		)
 		(stroke
@@ -3161,6 +3786,16 @@
 			(type default)
 		)
 		(uuid "5a2d8814-1f7c-47bb-868e-0a4ec3537772")
+	)
+	(wire
+		(pts
+			(xy 236.855 155.575) (xy 244.475 155.575)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a929ad7-f68e-4082-81a5-923902bc8396")
 	)
 	(wire
 		(pts
@@ -3514,6 +4149,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 71.755) (xy 238.76 71.755)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c702827-13e2-418a-9ead-82dc86ac4c1c")
+	)
+	(wire
+		(pts
 			(xy 165.1 147.32) (xy 166.37 147.32)
 		)
 		(stroke
@@ -3621,6 +4266,16 @@
 			(type default)
 		)
 		(uuid "adf4ae5d-4e05-4c5c-b48f-0d42024021bf")
+	)
+	(wire
+		(pts
+			(xy 239.395 153.035) (xy 239.395 150.495)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af4c2c56-f97a-4363-ac0a-f917b15709bd")
 	)
 	(wire
 		(pts
@@ -3904,6 +4559,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 70.485) (xy 238.76 70.485)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db30bb57-fba8-455e-b3ea-5544fc449939")
+	)
+	(wire
+		(pts
 			(xy 69.85 102.87) (xy 69.85 106.68)
 		)
 		(stroke
@@ -3981,6 +4646,16 @@
 			(type default)
 		)
 		(uuid "e84838da-5da5-43a9-9282-1d025e2cfa4f")
+	)
+	(wire
+		(pts
+			(xy 236.855 154.305) (xy 239.395 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e857e0b5-e893-4ffc-b176-21136a1efa56")
 	)
 	(wire
 		(pts
@@ -4200,6 +4875,26 @@
 					(size 1.1938 1.1938)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CS_r"
+		(shape input)
+		(at 244.475 155.575 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "149d29ff-f9ff-497c-b3a7-c037196274cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 244.475 155.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5168,6 +5863,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CS"
+		(shape input)
+		(at 243.84 73.025 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "c4788de8-3d9d-4f0c-ace6-dc99dd329e88")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.84 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -13319,6 +14034,144 @@
 		)
 	)
 	(symbol
+		(lib_id "corne-light-rescue:MJ-4PP-9-kbd")
+		(at 231.14 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "20b40a41-f5f0-4277-a3d6-cd1aed7dc86b")
+		(property "Reference" "TRRS1"
+			(at 231.14 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MJ-4PP-9"
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kbd:MJ-4PP-9_1side"
+			(at 238.125 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.125 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "c7a523b2-40d9-4888-9f82-fb9d28f31ca1")
+		)
+		(pin "B"
+			(uuid "2405d69a-938a-4360-bc8a-553b98928a58")
+		)
+		(pin "C"
+			(uuid "cc189d22-df97-4f52-be83-fa9afdb08567")
+		)
+		(pin "D"
+			(uuid "efa8c4c4-4d91-41df-aa79-bbcbb4cb5194")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "TRRS1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "corne-light-rescue:VCC-power")
+		(at 238.76 67.945 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27892cd2-e720-4160-85f6-5d57558ae647")
+		(property "Reference" "#PWR022"
+			(at 238.76 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 238.76 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cddbdab0-b99f-4bbc-a600-ded6d7479bf2")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "kbd:OLED")
 		(at 185.42 140.97 0)
 		(mirror x)
@@ -13669,6 +14522,71 @@
 		)
 	)
 	(symbol
+		(lib_id "corne-light-rescue:GNDA-power")
+		(at 239.395 156.845 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3edd8bbd-3aa5-43a2-88c7-0bfe5854f76c")
+		(property "Reference" "#PWR026"
+			(at 239.395 163.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 239.395 160.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 239.395 156.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 239.395 156.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 239.395 156.845 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9573ff61-33ca-4eb2-b03d-d21569267334")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+BATT")
 		(at 259.08 17.78 0)
 		(unit 1)
@@ -13927,6 +14845,136 @@
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "corne-light-rescue:GND-power")
+		(at 238.76 74.295 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "62d56ad9-dd67-412c-8075-fd740824c922")
+		(property "Reference" "#PWR024"
+			(at 238.76 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 238.76 78.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d970487f-d437-47b7-9f38-bcc0e5bc072a")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "corne-light-rescue:VDD-power")
+		(at 239.395 150.495 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ced1301-1c67-4c59-adfc-429d42a38190")
+		(property "Reference" "#PWR025"
+			(at 239.395 154.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VDD"
+			(at 239.8268 146.1008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 239.395 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 239.395 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 239.395 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6537bfaf-83d3-4ab7-8730-c65839e083a8")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -14320,6 +15368,79 @@
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "#FLG04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "corne-light-rescue:MJ-4PP-9-kbd")
+		(at 231.775 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "835a1362-53be-451f-b25b-e71d36a0776e")
+		(property "Reference" "TRRS2"
+			(at 231.775 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MJ-4PP-9"
+			(at 231.775 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kbd:MJ-4PP-9_1side"
+			(at 238.76 149.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 149.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 231.775 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "D"
+			(uuid "be6d5b98-5d98-4887-9f24-a602660d4ddc")
+		)
+		(pin "A"
+			(uuid "b6b7b5e3-0fd4-48cc-b600-fddba4a368da")
+		)
+		(pin "B"
+			(uuid "80864c0e-a0c2-4618-9e11-d3069b147f38")
+		)
+		(pin "C"
+			(uuid "0bdea465-746a-49dc-ba3a-751e52a3f163")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "TRRS2")
 					(unit 1)
 				)
 			)
