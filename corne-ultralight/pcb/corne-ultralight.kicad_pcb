@@ -30286,6 +30286,7 @@
 		(property "Reference" "BATJ7"
 			(at 1 2.55 60)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "961707b9-462f-41c9-9f54-ccad818918bb")
 			(effects
 				(font
