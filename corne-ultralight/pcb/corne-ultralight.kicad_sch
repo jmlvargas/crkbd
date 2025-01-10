@@ -3379,6 +3379,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 49.53) (xy 242.57 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05af208e-7294-48bd-9ff0-f9fa9e58b012")
+	)
+	(wire
+		(pts
 			(xy 15.875 20.32) (xy 15.875 24.13)
 		)
 		(stroke
@@ -3739,6 +3749,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 144.78) (xy 257.81 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f0dd418-6009-4fd4-aadf-cacad1599cef")
+	)
+	(wire
+		(pts
 			(xy 84.455 77.47) (xy 102.235 77.47)
 		)
 		(stroke
@@ -3766,6 +3786,16 @@
 			(type default)
 		)
 		(uuid "59958245-da32-435a-86cc-caaf6b3d6501")
+	)
+	(wire
+		(pts
+			(xy 255.27 59.69) (xy 242.57 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "599fbb4d-35c6-4d81-8760-60c9a05f8c86")
 	)
 	(wire
 		(pts
@@ -3849,6 +3879,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 62.23) (xy 250.19 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6469b8f9-b814-4039-99ca-0fc0e43f6d22")
+	)
+	(wire
+		(pts
 			(xy 137.795 29.845) (xy 140.335 29.845)
 		)
 		(stroke
@@ -3876,16 +3916,6 @@
 			(type default)
 		)
 		(uuid "68e67483-657d-4547-b71a-af0941f0c616")
-	)
-	(wire
-		(pts
-			(xy 241.3 135.89) (xy 241.3 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69521db3-80a9-41a7-a4fd-0f551b782663")
 	)
 	(wire
 		(pts
@@ -4476,6 +4506,16 @@
 			(type default)
 		)
 		(uuid "cede3596-a8cb-402f-8fe9-1a6a24c8da69")
+	)
+	(wire
+		(pts
+			(xy 241.3 133.35) (xy 241.3 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0b46fd2-dcd5-4cec-ad66-1cdb64fbdc64")
 	)
 	(wire
 		(pts
@@ -13699,6 +13739,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 250.19 62.23 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "071a6706-c46a-49ec-a611-e254b6dfbdc1")
+		(property "Reference" "#PWR027"
+			(at 250.19 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 250.19 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 250.19 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "69c081fd-7dca-49ce-9ea3-4820e82589ff")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Female")
 		(at 252.095 120.65 0)
 		(mirror x)
@@ -13901,6 +14007,75 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Female")
+		(at 262.89 147.32 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11b814c7-7d7a-4599-8dba-ef6f0bdad4ef")
+		(property "Reference" "BATJ8"
+			(at 262.255 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Female"
+			(at 262.255 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+			(at 262.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 262.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8db722d6-9979-4b1a-96a0-61f41a406fa2")
+		)
+		(pin "2"
+			(uuid "a33da31e-bb7a-4244-8e16-f5483d13da66")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "BATJ8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Female")
 		(at 254 40.64 0)
 		(mirror x)
 		(unit 1)
@@ -14028,6 +14203,71 @@
 			(project ""
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 257.81 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15eca22c-00d7-4a80-b9a4-d271c2bc0a1b")
+		(property "Reference" "#PWR028"
+			(at 257.81 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 257.81 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.81 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19c60b79-2821-44d2-a2d4-32a44fb24770")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -16176,6 +16416,76 @@
 			(project "corne-ultralight"
 				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Female")
+		(at 260.35 62.23 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3ec991c-e57d-4c16-b51c-0d4c97c43d2a")
+		(property "Reference" "BATJ7"
+			(at 261.0612 61.7947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Female"
+			(at 261.0612 59.2578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
+			(at 260.35 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b38403bc-ac33-42a4-b17f-9461b95f5348")
+		)
+		(pin "2"
+			(uuid "190fb7e7-2562-4b0d-88fc-6a1bc1466f22")
+		)
+		(instances
+			(project "corne-ultralight"
+				(path "/4d161fd0-88a3-46fc-b3eb-e2fe3659386b"
+					(reference "BATJ7")
 					(unit 1)
 				)
 			)
