@@ -6325,7 +6325,6 @@
 		)
 	)
 	(footprint "kbd:ProMicro_v3"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005dc2e608")
 		(at 136.8925 56.56)
@@ -7251,7 +7250,6 @@
 		)
 	)
 	(footprint "kbd:ProMicro_v3"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005dc2e6f5")
 		(at 164.062847 56.686432)
@@ -16990,6 +16988,7 @@
 		)
 	)
 	(footprint "Button_Switch_SMD:SW_SPDT_PCM12"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "090651a8-690b-41a1-af77-4387666b0018")
 		(at 164.062847 39.015 180)
@@ -18736,6 +18735,7 @@
 		)
 	)
 	(footprint "Button_Switch_SMD:SW_SPDT_PCM12"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "cd5cbf6d-7c66-42e2-93d2-4f92e331fb36")
 		(at 136.8925 39.015 180)
@@ -49995,20 +49995,12 @@
 		(uuid "f44480ad-f208-4218-9ea0-b0c2a12b7473")
 	)
 	(group ""
-		(uuid "39f8d71a-72ca-48fb-bea8-a573c3603f92")
-		(members "090651a8-690b-41a1-af77-4387666b0018")
-	)
-	(group ""
 		(uuid "6baae614-be34-4675-8005-abf4aff5701f")
 		(members "0d96f741-843c-4081-be0d-d2118f2a58d4" "b85b15c1-0fd8-4543-bf03-c14d94775908")
 	)
 	(group ""
 		(uuid "a4ada1c5-bbf0-45ad-be2e-57d9a74b1706")
 		(members "aa338fce-b2f5-40fe-a568-c3ed9f701e43" "e3dfcc87-a597-4b20-93ad-81c54f9223bc")
-	)
-	(group ""
-		(uuid "fd9c0883-18e1-4f1b-b5b0-f7d0742f3a14")
-		(members "cd5cbf6d-7c66-42e2-93d2-4f92e331fb36")
 	)
 	(group ""
 		(uuid "5d995f49-f921-4d16-898b-8297d7cb8be8")
