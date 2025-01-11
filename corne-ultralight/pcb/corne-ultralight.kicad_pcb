@@ -7255,6 +7255,7 @@
 		)
 	)
 	(footprint "kbd:ProMicro_v3"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005dc2e6f5")
 		(at 164.062847 56.56)
@@ -41961,7 +41962,7 @@
 		)
 	)
 	(gr_text "ON"
-		(at 141.9125 38.245 -180)
+		(at 141.9125 38.045 -180)
 		(layer "B.SilkS")
 		(uuid "2187ae59-cf06-4ae2-91b6-236c0a0f70c2")
 		(effects
@@ -41997,7 +41998,7 @@
 		)
 	)
 	(gr_text "OFF"
-		(at 168.9125 38.245 -180)
+		(at 168.9125 38.045 -180)
 		(layer "B.SilkS")
 		(uuid "6999038d-f6d8-4e0f-9d20-872c00953e82")
 		(effects
@@ -42033,7 +42034,7 @@
 		)
 	)
 	(gr_text "ON"
-		(at 156.9125 38.245 -180)
+		(at 156.9125 38.045 -180)
 		(layer "B.SilkS")
 		(uuid "963028a2-7672-429f-a7cc-4c051f91424c")
 		(effects
@@ -42045,7 +42046,7 @@
 		)
 	)
 	(gr_text "OFF"
-		(at 129.4125 38.245 -180)
+		(at 129.4125 38.045 -180)
 		(layer "B.SilkS")
 		(uuid "9814480d-787a-496e-99a7-91b93430a16f")
 		(effects
@@ -42189,7 +42190,7 @@
 		)
 	)
 	(gr_text "OFF"
-		(at 171.7125 37.945 180)
+		(at 171.7125 37.795 180)
 		(layer "F.SilkS")
 		(uuid "2258bd30-c2aa-4cb6-bf87-32b89d0813b4")
 		(effects
@@ -51032,6 +51033,12 @@
 		(uuid "c990fbc1-aff0-4924-9222-698ec84c16d4")
 		(members "1252b3cd-b27f-4c2c-aa6c-c80f577108f2" "1516cc5a-2311-4c14-bd95-ae9a3a20a7a3"
 			"d33feff9-83b6-468b-bbad-ec10ebbcb8e9" "f0d26bd1-6721-4786-9bed-de4bec41752b"
+		)
+	)
+	(group ""
+		(uuid "4aa09835-b116-4a53-a657-dfdcf41fc28a")
+		(members "2187ae59-cf06-4ae2-91b6-236c0a0f70c2" "6999038d-f6d8-4e0f-9d20-872c00953e82"
+			"963028a2-7672-429f-a7cc-4c051f91424c" "9814480d-787a-496e-99a7-91b93430a16f"
 		)
 	)
 	(group ""
