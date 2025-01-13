@@ -4844,6 +4844,7 @@
 		)
 	)
 	(footprint "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005c280516")
 		(at 221.684847 76.795432)
@@ -11437,6 +11438,7 @@
 		)
 	)
 	(footprint "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005dc6b177")
 		(at 79.1875 76.795)
@@ -42003,6 +42005,19 @@
 			(justify left mirror)
 		)
 	)
+	(gr_text "// VersaKomb"
+		(at 87.546428 86.945 -0)
+		(layer "B.SilkS")
+		(uuid "66aa7ed9-6d01-4ffd-9b12-5be6684be694")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "OFF"
 		(at 168.8525 38.045 180)
 		(layer "B.SilkS")
@@ -42071,6 +42086,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "by E1_M0p"
+		(at 222.2125 89.445 -0)
+		(layer "B.SilkS")
+		(uuid "af081fbf-d240-437f-9f64-c8f2556c7a21")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
 			)
 			(justify left mirror)
 		)
@@ -42147,7 +42174,32 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "Corne Versa v2.3 PCB Designed by foostan, mods by petejohanson"
+	(gr_text "// VersaKomb"
+		(at 230.497296 86.945 -0)
+		(layer "B.SilkS")
+		(uuid "f1a3b71d-0421-40c2-bbd9-9328ef14e971")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "by E1_M0p"
+		(at 90.7125 89.445 -0)
+		(layer "B.SilkS")
+		(uuid "f813d2ea-1d52-49bb-a434-c8d3ab4c9774")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "Corne Ultralight v2.0 PCB Designed by foostan, mods by petejohanson"
 		(at 191.7125 68.56 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005dc05551")
@@ -42159,7 +42211,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "Corne Versa v2.3 PCB Designed by foostan, mods by petejohanson"
+	(gr_text "Corne Ultralight v2.0 PCB Designed by foostan, mods by petejohanson"
 		(at 51.2125 68.6 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005dc84d0a")
@@ -42231,6 +42283,19 @@
 			(justify left)
 		)
 	)
+	(gr_text "// VersaKomb"
+		(at 70.601786 86.945 0)
+		(layer "F.SilkS")
+		(uuid "55fb019d-3973-4d45-8622-56472f458ae5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "Black-"
 		(at 131.7125 83.07 -30)
 		(layer "F.SilkS")
@@ -42279,6 +42344,18 @@
 			(justify left)
 		)
 	)
+	(gr_text "by E1_M0p"
+		(at 78.7125 89.445 0)
+		(layer "F.SilkS")
+		(uuid "95f94ae2-a65c-44bb-b344-aae6a263121a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "Red+"
 		(at 127.2125 112.945 -30)
 		(layer "F.SilkS")
@@ -42291,14 +42368,15 @@
 			(justify left)
 		)
 	)
-	(gr_text "Versa mods by jmlvargas"
-		(at 223.7125 70.445 0)
+	(gr_text "// VersaKomb"
+		(at 213.099133 86.945 0)
 		(layer "F.SilkS")
 		(uuid "b560d8b0-0202-489d-b929-451ac556051f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.125)
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left)
 		)
@@ -42339,6 +42417,18 @@
 			(justify left)
 		)
 	)
+	(gr_text "by E1_M0p"
+		(at 209.7125 89.445 0)
+		(layer "F.SilkS")
+		(uuid "d3281ba4-a62e-4f73-aa08-18513dbcd501")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.1875)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "-Black"
 		(at 169.7125 114.945 30)
 		(layer "F.SilkS")
@@ -42371,18 +42461,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left)
-		)
-	)
-	(gr_text "Versa mods by jmlvargas"
-		(at 83.3125 70.445 0)
-		(layer "F.SilkS")
-		(uuid "fd4bfeb6-7d00-4174-ae29-7e0a5362696f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.125)
 			)
 			(justify left)
 		)
