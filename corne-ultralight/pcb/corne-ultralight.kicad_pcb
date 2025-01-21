@@ -41957,6 +41957,30 @@
 		(layer "Edge.Cuts")
 		(uuid "ffa51f43-16c8-49a8-84ac-0bed95b90af8")
 	)
+	(gr_text "^E1M0p"
+		(at 77.2125 86.945 -0)
+		(layer "B.SilkS")
+		(uuid "0d20a1ce-ac43-4072-a8c1-6ed2a3d40657")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "^E1M0p"
+		(at 219.484848 86.945 -0)
+		(layer "B.SilkS")
+		(uuid "0ffdac26-deab-4092-bf70-1deacd5aef2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "-Black"
 		(at 141.7125 89.57 -30)
 		(layer "B.SilkS")
@@ -41965,6 +41989,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "// Versa"
+		(at 87.216071 87.445 -0)
+		(layer "B.SilkS")
+		(uuid "204c0979-0e7f-4b7e-9039-b8af16723e6c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left mirror)
 		)
@@ -42001,19 +42038,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left mirror)
-		)
-	)
-	(gr_text "// VersaKomb"
-		(at 87.546428 86.945 -0)
-		(layer "B.SilkS")
-		(uuid "66aa7ed9-6d01-4ffd-9b12-5be6684be694")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
 			)
 			(justify left mirror)
 		)
@@ -42078,6 +42102,19 @@
 			(justify left mirror)
 		)
 	)
+	(gr_text "// Versa"
+		(at 229.488419 87.445 -0)
+		(layer "B.SilkS")
+		(uuid "998406bc-4587-4f5e-a01f-56acd46aa053")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "-Black"
 		(at 138.7125 64.945 90)
 		(layer "B.SilkS")
@@ -42086,18 +42123,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left mirror)
-		)
-	)
-	(gr_text "by E1_M0p"
-		(at 222.2125 89.445 -0)
-		(layer "B.SilkS")
-		(uuid "af081fbf-d240-437f-9f64-c8f2556c7a21")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1875)
 			)
 			(justify left mirror)
 		)
@@ -42174,31 +42199,6 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "// VersaKomb"
-		(at 230.497296 86.945 -0)
-		(layer "B.SilkS")
-		(uuid "f1a3b71d-0421-40c2-bbd9-9328ef14e971")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left mirror)
-		)
-	)
-	(gr_text "by E1_M0p"
-		(at 90.7125 89.445 -0)
-		(layer "B.SilkS")
-		(uuid "f813d2ea-1d52-49bb-a434-c8d3ab4c9774")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1875)
-			)
-			(justify left mirror)
-		)
-	)
 	(gr_text "Corne Ultralight v2.0 PCB Designed by foostan, mods by petejohanson"
 		(at 191.7125 68.56 0)
 		(layer "F.SilkS")
@@ -42247,6 +42247,18 @@
 			(justify left)
 		)
 	)
+	(gr_text "^E1M0p"
+		(at 223.884847 86.945 0)
+		(layer "F.SilkS")
+		(uuid "1c0b1fae-bb3e-4696-8439-dd348b1b6155")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "OFF"
 		(at 171.7125 37.795 180)
 		(layer "F.SilkS")
@@ -42255,6 +42267,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(gr_text "// Versa"
+		(at 213.881276 87.445 0)
+		(layer "F.SilkS")
+		(uuid "2835c844-1c04-458d-9ca5-06f73f505be4")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left)
 		)
@@ -42283,8 +42308,8 @@
 			(justify left)
 		)
 	)
-	(gr_text "// VersaKomb"
-		(at 70.601786 86.945 0)
+	(gr_text "// Versa"
+		(at 71.383929 87.445 0)
 		(layer "F.SilkS")
 		(uuid "55fb019d-3973-4d45-8622-56472f458ae5")
 		(effects
@@ -42344,14 +42369,14 @@
 			(justify left)
 		)
 	)
-	(gr_text "by E1_M0p"
-		(at 78.7125 89.445 0)
+	(gr_text "^E1M0p"
+		(at 81.3875 86.945 0)
 		(layer "F.SilkS")
 		(uuid "95f94ae2-a65c-44bb-b344-aae6a263121a")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.1875)
+				(size 1 1)
+				(thickness 0.125)
 			)
 			(justify left)
 		)
@@ -42364,19 +42389,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left)
-		)
-	)
-	(gr_text "// VersaKomb"
-		(at 213.099133 86.945 0)
-		(layer "F.SilkS")
-		(uuid "b560d8b0-0202-489d-b929-451ac556051f")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
 			)
 			(justify left)
 		)
@@ -42413,18 +42425,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-			(justify left)
-		)
-	)
-	(gr_text "by E1_M0p"
-		(at 209.7125 89.445 0)
-		(layer "F.SilkS")
-		(uuid "d3281ba4-a62e-4f73-aa08-18513dbcd501")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.1875)
 			)
 			(justify left)
 		)
@@ -51150,6 +51150,14 @@
 		)
 	)
 	(group ""
+		(uuid "18ee4cc5-45db-4111-b1e0-628165fb7840")
+		(members "0ffdac26-deab-4092-bf70-1deacd5aef2e" "998406bc-4587-4f5e-a01f-56acd46aa053")
+	)
+	(group ""
+		(uuid "3a3c2d89-74f1-4983-84d5-f53ccc318c64")
+		(members "0d20a1ce-ac43-4072-a8c1-6ed2a3d40657" "204c0979-0e7f-4b7e-9039-b8af16723e6c")
+	)
+	(group ""
 		(uuid "4aa09835-b116-4a53-a657-dfdcf41fc28a")
 		(members "2187ae59-cf06-4ae2-91b6-236c0a0f70c2" "6999038d-f6d8-4e0f-9d20-872c00953e82"
 			"963028a2-7672-429f-a7cc-4c051f91424c" "9814480d-787a-496e-99a7-91b93430a16f"
@@ -51162,6 +51170,10 @@
 		)
 	)
 	(group ""
+		(uuid "06e7f58c-0186-4386-9abe-56aed7a22efa")
+		(members "55fb019d-3973-4d45-8622-56472f458ae5" "95f94ae2-a65c-44bb-b344-aae6a263121a")
+	)
+	(group ""
 		(uuid "1252b3cd-b27f-4c2c-aa6c-c80f577108f2")
 		(members "013f1f25-df12-4825-a242-8f30f3cd3b16" "5f772bcf-fc59-4ca1-a4e6-d1eedcd91c5c")
 	)
@@ -51172,6 +51184,10 @@
 	(group ""
 		(uuid "9f57b53e-54d4-47f3-a8f3-f3f6e88881d7")
 		(members "313a67d2-5bbf-4987-9ede-975462bcf836" "e0c27251-4112-4542-a04d-b5580c1260c3")
+	)
+	(group ""
+		(uuid "d6593c8d-89eb-4242-a688-842e8cf51c61")
+		(members "1c0b1fae-bb3e-4696-8439-dd348b1b6155" "2835c844-1c04-458d-9ca5-06f73f505be4")
 	)
 	(group ""
 		(uuid "ddb5f7d6-e698-4e2a-9d63-7db6b5a78ce5")
