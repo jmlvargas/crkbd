@@ -376,7 +376,7 @@
 			(pintype "passive")
 			(uuid "5511778a-fdea-41f7-a9d9-0138421949d0")
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/tact-switch.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/tact-switch.step"
 			(offset
 				(xyz 0 0 3.47)
 			)
@@ -15032,7 +15032,7 @@
 			(pintype "passive")
 			(uuid "40fdb0fd-9f61-4156-97ac-1d97e69328a9")
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/pin-header-1x4.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/pin-header-1x4.step"
 			(offset
 				(xyz 3.8 0 0)
 			)
@@ -15043,7 +15043,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/OLED-Module-with-Pins.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/OLED-Module-with-Pins.step"
 			(offset
 				(xyz 3.8 0 0)
 			)
@@ -15215,7 +15215,7 @@
 			(pintype "passive")
 			(uuid "c547db5b-a0d8-4df9-912d-88ce1e4708cb")
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/tact-switch.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/tact-switch.step"
 			(offset
 				(xyz 0 0 3.47)
 			)
@@ -16580,7 +16580,7 @@
 			(pintype "passive")
 			(uuid "8677ebd6-0489-4b3c-851c-bef44e8e5dc6")
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/pin-header-1x4.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/pin-header-1x4.step"
 			(offset
 				(xyz 3.8 0 0)
 			)
@@ -16591,7 +16591,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/OLED-Module-with-Pins.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/OLED-Module-with-Pins.step"
 			(offset
 				(xyz 3.8 0 0)
 			)
@@ -20128,7 +20128,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20139,7 +20139,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20318,7 +20318,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20329,7 +20329,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20508,7 +20508,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20519,7 +20519,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20698,7 +20698,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20709,7 +20709,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20888,7 +20888,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20899,7 +20899,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21078,7 +21078,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21089,7 +21089,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21268,7 +21268,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21279,7 +21279,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21458,7 +21458,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21469,7 +21469,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21648,7 +21648,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21659,7 +21659,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21838,7 +21838,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21849,7 +21849,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22028,7 +22028,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22039,7 +22039,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22218,7 +22218,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22229,7 +22229,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22408,7 +22408,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22419,7 +22419,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22598,7 +22598,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22609,7 +22609,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22788,7 +22788,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22799,7 +22799,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22978,7 +22978,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22989,7 +22989,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23168,7 +23168,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23179,7 +23179,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23358,7 +23358,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23369,7 +23369,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23548,7 +23548,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23559,7 +23559,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23738,7 +23738,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23749,7 +23749,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23928,7 +23928,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23939,7 +23939,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24118,7 +24118,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24129,7 +24129,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24308,7 +24308,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24319,7 +24319,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24498,7 +24498,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24509,7 +24509,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24688,7 +24688,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24699,7 +24699,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24878,7 +24878,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24889,7 +24889,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25068,7 +25068,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25079,7 +25079,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25258,7 +25258,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25269,7 +25269,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25448,7 +25448,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25459,7 +25459,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25638,7 +25638,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25649,7 +25649,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25828,7 +25828,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25839,7 +25839,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26018,7 +26018,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26029,7 +26029,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26208,7 +26208,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26219,7 +26219,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26398,7 +26398,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26409,7 +26409,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26588,7 +26588,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26599,7 +26599,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26778,7 +26778,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26789,7 +26789,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26968,7 +26968,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26979,7 +26979,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27158,7 +27158,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27169,7 +27169,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27348,7 +27348,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27359,7 +27359,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27538,7 +27538,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27549,7 +27549,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27728,7 +27728,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27739,7 +27739,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27918,7 +27918,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27929,7 +27929,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
