@@ -6624,7 +6624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.275 24.13 0)
 			(effects
 				(font
@@ -6757,7 +6757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.055 24.13 0)
 			(effects
 				(font
@@ -6890,7 +6890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 76.835 24.13 0)
 			(effects
 				(font
@@ -6956,7 +6956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 94.615 24.13 0)
 			(effects
 				(font
@@ -7022,7 +7022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 112.395 24.13 0)
 			(effects
 				(font
@@ -7289,7 +7289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 23.495 24.13 0)
 			(effects
 				(font
@@ -7422,7 +7422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.275 39.37 0)
 			(effects
 				(font
@@ -7555,7 +7555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.055 39.37 0)
 			(effects
 				(font
@@ -7688,7 +7688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 76.835 39.37 0)
 			(effects
 				(font
@@ -7754,7 +7754,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 94.615 39.37 0)
 			(effects
 				(font
@@ -7820,7 +7820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 112.395 39.37 0)
 			(effects
 				(font
@@ -8087,7 +8087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 23.495 39.37 0)
 			(effects
 				(font
@@ -8220,7 +8220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.275 54.61 0)
 			(effects
 				(font
@@ -8353,7 +8353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.055 54.61 0)
 			(effects
 				(font
@@ -8486,7 +8486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 76.835 54.61 0)
 			(effects
 				(font
@@ -8552,7 +8552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 94.615 54.61 0)
 			(effects
 				(font
@@ -8618,7 +8618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 112.395 54.61 0)
 			(effects
 				(font
@@ -8885,7 +8885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 23.495 54.61 0)
 			(effects
 				(font
@@ -9018,7 +9018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 94.615 69.85 0)
 			(effects
 				(font
@@ -9151,7 +9151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx-1.5u"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx-1.5u"
 			(at 112.395 69.85 0)
 			(effects
 				(font
@@ -9284,7 +9284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 76.835 69.85 0)
 			(effects
 				(font
@@ -10341,7 +10341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.91 106.68 0)
 			(effects
 				(font
@@ -10474,7 +10474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.69 106.68 0)
 			(effects
 				(font
@@ -10607,7 +10607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 77.47 106.68 0)
 			(effects
 				(font
@@ -10673,7 +10673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 95.25 106.68 0)
 			(effects
 				(font
@@ -10739,7 +10739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 113.03 106.68 0)
 			(effects
 				(font
@@ -11006,7 +11006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 24.13 106.68 0)
 			(effects
 				(font
@@ -11139,7 +11139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.91 121.92 0)
 			(effects
 				(font
@@ -11272,7 +11272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.69 121.92 0)
 			(effects
 				(font
@@ -11405,7 +11405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 77.47 121.92 0)
 			(effects
 				(font
@@ -11471,7 +11471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 95.25 121.92 0)
 			(effects
 				(font
@@ -11537,7 +11537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 113.03 121.92 0)
 			(effects
 				(font
@@ -11804,7 +11804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 24.13 121.92 0)
 			(effects
 				(font
@@ -11937,7 +11937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 41.91 137.16 0)
 			(effects
 				(font
@@ -12070,7 +12070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 59.69 137.16 0)
 			(effects
 				(font
@@ -12203,7 +12203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 77.47 137.16 0)
 			(effects
 				(font
@@ -12269,7 +12269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 95.25 137.16 0)
 			(effects
 				(font
@@ -12335,7 +12335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 113.03 137.16 0)
 			(effects
 				(font
@@ -12602,7 +12602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 24.13 137.16 0)
 			(effects
 				(font
@@ -12735,7 +12735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 95.25 152.4 0)
 			(effects
 				(font
@@ -12868,7 +12868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx-1.5u"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx-1.5u"
 			(at 113.03 152.4 0)
 			(effects
 				(font
@@ -13001,7 +13001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gateron-ks27:gateron-ks27-choc-v1-mx"
+		(property "Footprint" "gateron-ks27:gateron-ks27-mx"
 			(at 77.47 152.4 0)
 			(effects
 				(font
