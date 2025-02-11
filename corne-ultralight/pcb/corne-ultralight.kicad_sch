@@ -14552,7 +14552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "JxComponents:SW_SPDT_PCM12_JX"
 			(at 252.73 35.56 0)
 			(effects
 				(font
@@ -14689,7 +14689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "JxComponents:SW_SPDT_PCM12_JX"
 			(at 229.87 118.11 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "JxComponents:SW_SPDT_PCM12_JX"
 			(at 254 118.11 0)
 			(effects
 				(font
@@ -16827,7 +16827,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "JxComponents:SW_SPDT_PCM12_JX"
 			(at 231.14 34.29 0)
 			(effects
 				(font
